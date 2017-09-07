@@ -2,6 +2,7 @@
 
 main()
 {
-    printf("Jack Bydalek");
+    printf("Jack Bydalek\n");
+    printf("Elijah Wilcox\n");
 
 }
